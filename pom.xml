@@ -16,6 +16,7 @@
         <module>dropwizard</module>
         <module>play</module>
         <module>jersey</module>
+        <module>hibernate</module>
     </modules>
 
 
