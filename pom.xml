@@ -11,6 +11,9 @@
     <modules>
         <module>jetty</module>
         <module>tomcat</module>
+        <module>springws</module>
+        <module>activiti</module>
+        <module>dropwizard</module>
     </modules>
 
 
