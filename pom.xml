@@ -17,6 +17,13 @@
         <module>play</module>
         <module>jersey</module>
         <module>hibernate</module>
+        <module>springmvc</module>
+        <module>annotations</module>
+        <module>jpa</module>
+        <module>aop</module>
+        <module>logging</module>
+        <module>guice</module>
+        <module>mybatis</module>
     </modules>
 
 
