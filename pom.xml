@@ -24,6 +24,9 @@
         <module>logging</module>
         <module>guice</module>
         <module>mybatis</module>
+        <module>Jodd</module>
+        <module>Commons</module>
+        <module>Guava</module>
     </modules>
 
 
