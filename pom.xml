@@ -27,6 +27,7 @@
         <module>Jodd</module>
         <module>Commons</module>
         <module>Guava</module>
+        <module>shiro</module>
     </modules>
 
 
